@@ -1,0 +1,39 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+  }
+  nav{
+    display:flex;
+   justify-content:flex-end;
+   width:100vw;
+   height:15vh;
+   background-color:#867AE9;
+   
+  }
+  
+  nav a{
+    text-decoration:none;
+    color:black;
+    font-size:1.5rem;
+    padding:1rem;
+  }
+  ul{
+    margin-top:1.5rem;
+  }
+  
+  #welcome-section{
+    background-color:#FFF5AB;
+    width:100vw;
+    height:100vh;
+  
+  }
+  h1{
+   text-align:center;
+    padding: 20rem;
+  }
+  #projects{
+    height:80vh;
+    background-color:#FFCEAD;
+  }
+  
